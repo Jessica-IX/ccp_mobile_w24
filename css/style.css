@@ -82,13 +82,13 @@ h2 {
     font-size: 1.3rem;
     text-align: center;
     padding: 5px;
-    font-family: "Arial Black";
+    font-family: "Arial Black", Georgia, Times;
     color: white;
     background-color: black;
 }
 
 h3 {
-    font-family: "Gill Sans";
+    font-family: "Gill Sans", Times, Arial;
     font-size: 1.2rem;
     padding: 10px;
     display: inline-block;
@@ -104,7 +104,7 @@ p, figcaption {
 }
 
 p {
-    font-family: "Gill Sans";
+    font-family: "Gill Sans", Times, Arial;
 }
 
 .index-p {
